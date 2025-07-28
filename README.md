@@ -87,10 +87,4 @@ Apart from coding, I love drawing portraits and doing artistic sketching 🎨�
 
 ---
 
-## 📊 GitHub Stats
-
-[![Sairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganganaboinasairam&show_icons=true&theme=github_dark)](https://github.com/ganganaboinasairam)
-
----
-
 _Thanks for stopping by! Feel free to connect with me or explore my projects._
