@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Sairam Ganganaboina
 
-<!--
-**ganganaboinasairam/ganganaboinasairam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend / Full Stack Developer | Java, Spring Boot, React JS | Agile / Scrum Practitioner
 
-Here are some ideas to get you started:
+- 📍 Hyderabad, India  
+- 📧 ganganaboinasairam@gmail.com  
+- 🌐 [ganganaboinasairam.in](https://ganganaboinasairam.in)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ganganaboinasairam/) | [GitHub](https://github.com/ganganaboinasairam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+I’m a results-driven Full Stack Developer with expertise in both front-end and back-end development. At **Tata Consultancy Services**, I’ve led Agile teams, modernized enterprise applications for **State Bank of India**, and built scalable solutions using Java, Spring Boot, and React. I enjoy solving business problems with clean, reusable code and collaborating across teams.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend:** React JS, HTML, CSS, JavaScript  
+- **Backend:** Java, Spring Boot, JSP, Servlets  
+- **Database:** Oracle SQL, PL/SQL  
+- **Tools:** Git, GitHub, SourceTree, IBM MQ
+
+---
+
+## 📂 Projects
+
+### 🔧 Trade Finance Revamp – SBI (TCS Client)
+- Modernized UI for SBI’s Trade Finance platform in line with YONO 2.0.
+- Introduced role-based user hierarchy to improve task delegation.
+- Developed backend features using JSP/Servlets and wrote PL/SQL migration scripts.
+- Integrated IBM MQ for message-based communication.
+- Led the project as a **Scrum Master** for a team of 5 developers.
+
+---
+
+### 🎓 Student Management System  
+📍 [GitHub Repository](https://github.com/ganganaboinasairam/student-management)
+
+A full-stack CRUD application to manage student data.
+
+**Features:**
+- Add, update, delete, and view student records.
+- Backend built with **Spring Boot**.
+- Frontend developed using **React JS**.
+- Connected with **MySQL** database.
+- RESTful APIs and proper component architecture.
+  
+**Tech Used:** Spring Boot, React, MySQL, REST API, Maven, Axios
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Star of the Month** – Tata Consultancy Services  
+- 🏆 **Award of Excellence** – SBI Global IT Center  
+
+---
+
+## 💡 Strengths
+
+- 🚀 Learning Agility – Quickly grasp new technologies  
+- 🧠 Problem Simplification – Break down complex tasks  
+- 🔁 Code Efficiency – Reusable and clean code patterns  
+
+---
+
+## 🎨 Fun Fact
+
+Apart from coding, I love drawing portraits and doing artistic sketching 🎨🖌️
+
+---
+
+## 📊 GitHub Stats
+
+[![Sairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganganaboinasairam&show_icons=true&theme=github_dark)](https://github.com/ganganaboinasairam)
+
+---
+
+_Thanks for stopping by! Feel free to connect with me or explore my projects._
