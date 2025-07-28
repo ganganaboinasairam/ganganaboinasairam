@@ -51,7 +51,7 @@ A full-stack CRUD application to manage student data.
 
 ---
 
-### 🎓 Instant Messaging App  
+### 🧑‍💻 Instant Messaging App  
 📍 [GitHub Repository](https://github.com/ganganaboinasairam/messaging-app-react)
 
 A Messaging application to chat with Friends.
