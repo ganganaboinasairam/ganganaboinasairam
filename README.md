@@ -43,11 +43,25 @@ A full-stack CRUD application to manage student data.
 **Features:**
 - Add, update, delete, and view student records.
 - Backend built with **Spring Boot**.
-- Frontend developed using **React JS**.
-- Connected with **MySQL** database.
+- Frontend developed using **HTML, CSS, JavaScript**.
+- Connected with **Oracle SQL** database.
 - RESTful APIs and proper component architecture.
   
-**Tech Used:** Spring Boot, React, MySQL, REST API, Maven, Axios
+**Tech Used:** Spring Boot, HTML, CSS, JavaScript, SQL, REST API, Maven.
+
+---
+
+### 🎓 Instant Messaging App  
+📍 [GitHub Repository](https://github.com/ganganaboinasairam/messaging-app-react)
+
+A Messaging application to chat with Friends.
+
+**Features:**
+- Create account, Add Friends and chat with them in realtime.
+- Frontend developed using **React, TypeScript**.
+- Connected with **FireBase** database.
+  
+**Tech Used:** React, TypeScript, Firebase
 
 ---
 
