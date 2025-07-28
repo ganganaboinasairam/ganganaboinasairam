@@ -42,6 +42,7 @@ A full-stack CRUD application to manage student data.
 
 **Features:**
 - Add, update, delete, and view student records.
+- Add subjects, Student Marks and update Marks.
 - Backend built with **Spring Boot**.
 - Frontend developed using **HTML, CSS, JavaScript**.
 - Connected with **Oracle SQL** database.
